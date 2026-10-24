@@ -1,0 +1,44 @@
+﻿STACK ROULETTE HACKATHON 2026
+Team: EleeT Squad
+Project: Notes Board
+
+AI PROMPT LOG
+==============
+
+Prompt 1 — Project planning
+Exact prompt:
+before proceeding with the next step tell me whether is it possible to complete this in four hours , and you have save all the prompts im giving to show them what i have used , also tell the ways to make our project become the mvp .
+
+Purpose:
+Assess the available development time and identify ways to improve the project MVP.
+
+Prompt 2 — Repository preparation
+Exact prompt:
+keep adding the prompts here , also i want all this github repo to submit to the judges
+
+Purpose:
+Maintain a record of AI prompts and prepare the repository for submission.
+
+Prompt 3 — Frontend troubleshooting
+Exact prompt:
+there is no frontend file on the left.
+
+Purpose:
+Get help locating the frontend stylesheet in VS Code.
+
+Prompt 4 — CSS troubleshooting
+Exact prompt:
+i got 94
+
+Purpose:
+Get help checking whether the stylesheet was saved correctly.
+
+Prompt 5 — Frontend troubleshooting
+Exact prompt:
+i got 64
+
+Purpose:
+Continue troubleshooting the incomplete stylesheet.
+
+Record note:
+This is a partial log reconstructed from prompts available in the current conversation context. It is not guaranteed to contain every prompt used throughout the project. Add future prompts with their exact wording, purpose, and outcome.
